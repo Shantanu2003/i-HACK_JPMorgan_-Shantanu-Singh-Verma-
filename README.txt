@@ -26,6 +26,7 @@ STEP 3- Then I have created an interface where  it will input the candidates res
  STEP 8-Loading  the trained model.
  STEP 9- Testing the model by taking the information  and predicting the information based on entities.
  STEP 10- Taking a random resume and testing the model.
+ STEP 11- Dumping the model
  
  KNOWN BUGS-1)The program synatx may vary with the different version of modules used.
  2)Write now the program is not predicting resumes very accurately because I have trained a small datset but when we will train a large datset then it will gat trained well and 
