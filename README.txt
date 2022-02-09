@@ -6,6 +6,7 @@ language proccessing and concepts of named entity recognization where it will ta
 skills,education,experience,etc to the recruiter.It will help the recruiter to screen through the resumes easily and select the suitable candidate for the job.
 
 REQUIREMENTS-spacy v3.2.1
+             Python virtual environment.
              All the modules pre installed that are used in the project.
              
  
